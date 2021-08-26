@@ -1,17 +1,9 @@
-## About
+## About me
 
 [Computer Science](https://wppt.pwr.edu.pl/fcp/DGBUKOQtTKlQhbx08SlkTVwBQX2o8DAoHNiwFE1wZDyEPG1gnBVcoFW8SBDRKTxMKRy0SODwBBAEIMQheCFVAORFCHzY/44/public/studenci/plany-programy/2015/ps_i_1st.pdf) graduate student at department of [Fundamental Problems of Technology](http://studiuj.wppt.pwr.edu.pl/informatyka.php) at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
 
 Software developer at [NOKIA](https://www.nokia.com/).
-<br>
 
-## Connect with me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://pl.linkedin.com/in/piotr-popis)
-
- 
-<br>
- 
 ## Expertise
 
 
@@ -53,3 +45,39 @@ Software developer at [NOKIA](https://www.nokia.com/).
 
 
 
+
+## Stats
+
+Below graphs are provided by Vercel api and maybe outdated.
+
+<a href="https://github.com/sqoshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqoshi&theme=dark&hide=Julia,C,C++,HTML,CSS" />
+</a>
+<a href="https://github.com/sqoshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sqoshi&show_icons=true&theme=dark&hide=contribs&count_private=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" />
+</a>
+
+
+
+## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://pl.linkedin.com/in/piotr-popis)
