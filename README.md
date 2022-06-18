@@ -6,7 +6,6 @@ Software developer at [NOKIA](https://www.nokia.com/).
 
 ## Expertise
 
-
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 
 <img align="left" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -44,6 +43,6 @@ Software developer at [NOKIA](https://www.nokia.com/).
 <img align="left" alt="ub" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <br> 
 
 
-## Connect with me
+## Contact with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://pl.linkedin.com/in/piotr-popis)
