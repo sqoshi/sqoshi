@@ -44,19 +44,6 @@ Software developer at [NOKIA](https://www.nokia.com/).
 <img align="left" alt="ub" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <br> 
 
 
-
-
-## Stats
-
-Below graphs are provided by Vercel api and maybe outdated.
-
-<a href="https://github.com/sqoshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqoshi&theme=dark&hide=Julia,C,C++,HTML,CSS" />
-</a>
-<a href="https://github.com/sqoshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sqoshi&show_icons=true&theme=dark&hide=contribs&count_private=true" />
-</a>
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://pl.linkedin.com/in/piotr-popis)
