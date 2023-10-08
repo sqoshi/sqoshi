@@ -1,8 +1,5 @@
 ## About me
 
-[Computer Science](https://wppt.pwr.edu.pl/fcp/DGBUKOQtTKlQhbx08SlkTVwBQX2o8DAoHNiwFE1wZDyEPG1gnBVcoFW8SBDRKTxMKRy0SODwBBAEIMQheCFVAORFCHzY/44/public/studenci/plany-programy/2015/ps_i_1st.pdf) graduate at department of [Fundamental Problems of Technology](http://studiuj.wppt.pwr.edu.pl/informatyka.php) at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
-
-Software developer at [NOKIA](https://www.nokia.com/).
 
 ## Expertise
 
