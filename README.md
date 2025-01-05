@@ -7,6 +7,8 @@ I'm an experienced software/ machine learning engineer with expertise in various
 ## 🖥️ **Software Development**
 
 <img align="left" alt="openai" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
+<br><br>
+
 
 ### 🐍 **Python**
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  
@@ -31,11 +33,14 @@ I'm an experienced software/ machine learning engineer with expertise in various
 ### 🦦 **Golang**
 
 <img align="left" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
+<br><br>
+
+---
 
 ### ☕ **Java**
 
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  
-
+<br><br>
 
 ---
 
