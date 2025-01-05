@@ -6,7 +6,7 @@ I'm an experienced software/ machine learning engineer with expertise in various
 
 ## 🖥️ **Software Development**
 
-<img align="left" alt="openai" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
+<img align="left" alt="openapi" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
 <br><br>
 
 
@@ -45,7 +45,7 @@ I'm an experienced software/ machine learning engineer with expertise in various
 ---
 
 ## 🤖 **Machine Learning**
-
+<img align="left" alt="openai" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
 <img align="left" alt="tf" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />  
 <img align="left" alt="keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />  
